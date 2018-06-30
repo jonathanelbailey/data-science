@@ -1,0 +1,4 @@
+*.log
+.vagrant/*
+.jupyter/*
+.ipynb_checkpoints/*
